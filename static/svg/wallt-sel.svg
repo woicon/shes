@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/barico/wallt-sel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/barico/wallt-sel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M43.4960384,11.7538934 C44.7198198,12.7626556 45.5,14.2902174 45.5,16 L45.5,37 C45.5,40.0375661 43.0375661,42.5 40,42.5 L6,42.5 C2.96243388,42.5 0.5,40.0375661 0.5,37 L0.5,9 C0.5,6.51471863 2.51471863,4.5 5,4.5 L36,4.5 C40.0597834,4.5 43.3661706,7.72567226 43.4960384,11.7538934 Z M36,7.5 L5,7.5 C4.17157288,7.5 3.5,8.17157288 3.5,9 C3.5,9.82842712 4.17157288,10.5 5,10.5 L40.2439414,10.5 C39.6261868,8.75221144 37.9593282,7.5 36,7.5 Z M35,30 C36.6568542,30 38,28.6568542 38,27 C38,25.3431458 36.6568542,24 35,24 C33.3431458,24 32,25.3431458 32,27 C32,28.6568542 33.3431458,30 35,30 Z" id="Combined-Shape" fill="#F29700" fill-rule="nonzero"></path>
+    </g>
+</svg>

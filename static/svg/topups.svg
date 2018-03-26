@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/topups</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/topups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M38.8590535,38 L33,38 L33,34 L45,34 L45,46 L41,46 L41,41.5257142 C36.789548,45.6042713 31.1008079,48 25,48 C12.2974508,48 2,37.7025492 2,25 C2,12.2974508 12.2974508,2 25,2 C37.7025492,2 48,12.2974508 48,25 L44,25 C44,14.5065898 35.4934102,6 25,6 C14.5065898,6 6,14.5065898 6,25 C6,35.4934102 14.5065898,44 25,44 C30.3578136,44 35.3284175,41.7654607 38.8590535,38 Z M23,23 L15,23 L15,19 L19.1715729,19 L15.5857864,15.4142136 L18.4142136,12.5857864 L24.8284271,19 L24.9674635,19 L30.4948466,12.6829908 L33.5051534,15.3170092 L30.2825365,19 L35,19 L35,23 L27,23 L27,27 L35,27 L35,31 L27,31 L27,38 L23,38 L23,31 L15,31 L15,27 L23,27 L23,23 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+    </g>
+</svg>

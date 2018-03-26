@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9,2.5 C8.17157288,2.5 7.5,3.17157288 7.5,4 L7.5,39 C7.5,39.8284271 8.17157288,40.5 9,40.5 L35,40.5 C35.8284271,40.5 36.5,39.8284271 36.5,39 L36.5,4 C36.5,3.17157288 35.8284271,2.5 35,2.5 L9,2.5 Z M9,-0.5 L35,-0.5 C37.4852814,-0.5 39.5,1.51471863 39.5,4 L39.5,39 C39.5,41.4852814 37.4852814,43.5 35,43.5 L9,43.5 C6.51471863,43.5 4.5,41.4852814 4.5,39 L4.5,4 C4.5,1.51471863 6.51471863,-0.5 9,-0.5 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <polygon id="Line" fill="#FFFFFF" points="18.5 38.5 18.5 35.5 26.5 35.5 26.5 38.5"></polygon>
+        <polygon id="Line-2" fill="#FFFFFF" points="39 30 39 33 6 33 6 30"></polygon>
+    </g>
+</svg>

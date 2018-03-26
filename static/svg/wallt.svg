@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/barico/wallt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/barico/wallt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,9 C2,11 3.33333333,12 6,12 C17.3333333,12 28.6666667,12 40,12 L40,12 C42.209139,12 44,13.790861 44,16 L44,37 C44,39.209139 42.209139,41 40,41 L6,41 C3.790861,41 2,39.209139 2,37 L2,9 Z" id="Rectangle-12" stroke="#FFFFFF" stroke-width="3"></path>
+        <path d="M5,6 L36,6 C39.3137085,6 42,8.6862915 42,12 L5,12 C3.34314575,12 2,10.6568542 2,9 L2,9 C2,7.34314575 3.34314575,6 5,6 Z" id="Rectangle-13" stroke="#FFFFFF" stroke-width="3"></path>
+        <circle id="Oval-5" fill="#FFFFFF" cx="35" cy="27" r="3"></circle>
+    </g>
+</svg>

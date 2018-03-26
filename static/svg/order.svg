@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/order</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/order" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M35.1720673,44 L42.0067555,37.1710784 L42.0067555,8 C42.0067555,6.8954305 41.111325,6 40.0067555,6 L11,6 C9.8954305,6 9,6.8954305 9,8 L9,42 C9,43.1045695 9.8954305,44 11,44 L35.1720673,44 Z M11,48 C7.6862915,48 5,45.3137085 5,42 L5,8 C5,4.6862915 7.6862915,2 11,2 L40.0067555,2 C43.320464,2 46.0067555,4.6862915 46.0067555,8 L46.0067555,38.8289216 L36.8279327,48 L11,48 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M46.0067555,33.3151929 L46.0067555,37.3151929 L38.1866645,37.3151929 C37.082095,37.3151929 36.1866645,38.2106234 36.1866645,39.3151929 L36.1866645,47 L32.1866645,47 L32.1866645,39.3151929 C32.1866645,36.0014844 34.872956,33.3151929 38.1866645,33.3151929 L46.0067555,33.3151929 Z" id="Line" fill="#FFFFFF"></path>
+        <polygon id="Line-2-Copy-2" fill="#FFFFFF" points="15.6428571 35 15.6428571 31 22 31 22 35"></polygon>
+        <polygon id="Line-2" fill="#FFFFFF" points="8.64285714 15 8.64285714 11 44 11 44 15"></polygon>
+        <polygon id="Line-2-Copy" fill="#FFFFFF" points="15.6428571 25 15.6428571 21 36.3571429 21 36.3571429 25"></polygon>
+    </g>
+</svg>

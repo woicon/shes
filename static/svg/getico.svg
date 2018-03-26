@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/barico/getico</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/barico/getico" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29,2 C21.6666667,2.66666667 15.9323489,4.54228194 11.7970467,7.62684583 C8.19548456,10.3132876 5.00070685,14.294135 2.21271356,19.5693882 L2.21271891,19.569391 C1.4937028,20.9298649 1.92062454,22.6137497 3.20097485,23.4673166 L6.93982585,25.9598764 C8.31840906,26.8789319 10.1810132,26.5064111 11.1000687,25.1278279 C11.1963345,24.9834292 11.2798888,24.8309497 11.3497916,24.6721049 C13.2497348,20.3547382 15.4407121,16.8108364 17.9227234,14.0403997 C21.0155309,10.5881884 25.1083384,7.13597704 30.2011459,3.68376571 L29,2 Z" id="Path-3" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M19,11 L42.639872,37.3675495 C43.9636264,38.8440448 43.9022061,41.0977939 42.5,42.5 L42.5,42.5 C41.1952315,43.8047685 39.0797838,43.8047685 37.7750153,42.5 C37.7304845,42.4554692 37.6872217,42.4096883 37.6452787,42.3627121 L15,17" id="Path-4" stroke="#FFFFFF" stroke-width="3"></path>
+    </g>
+</svg>

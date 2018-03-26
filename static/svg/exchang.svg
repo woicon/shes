@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ico/barico/exchang</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ico/barico/exchang" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,13 L39,13 C41.209139,13 43,14.790861 43,17 L43,22 L4,22 L4,17 C4,14.790861 5.790861,13 8,13 Z" id="Rectangle-14" stroke="#FFFFFF" stroke-width="3"></path>
+        <path d="M7.5,22 L39.5,22 L39.5,40 C39.5,42.209139 37.709139,44 35.5,44 L11.5,44 C9.290861,44 7.5,42.209139 7.5,40 L7.5,22 Z" id="Rectangle-14-Copy" stroke="#FFFFFF" stroke-width="3"></path>
+        <path d="M12,3.5 L12,3.5 C10.4589869,4.84838646 10.3028322,7.19070761 11.6512186,8.73172072 C11.9389343,9.06053868 12.2825063,9.33591254 12.666079,9.54513399 L19,13 L24,13 L18.785616,4.52662604 C17.4850256,2.41316659 14.7173913,1.75420605 12.6039319,3.05479648 C12.3905616,3.18610128 12.1885469,3.33502149 12,3.5 Z" id="Path-12" stroke="#FFFFFF" stroke-width="3"></path>
+        <path d="M24.906864,3.5 L24.906864,3.5 C23.3658509,4.84838646 23.2096961,7.19070761 24.5580826,8.73172072 C24.8457983,9.06053868 25.1893703,9.33591254 25.5729429,9.54513399 L31.906864,13 L36.906864,13 L31.69248,4.52662604 C30.3918896,2.41316659 27.6242553,1.75420605 25.5107958,3.05479648 C25.2974255,3.18610128 25.0954108,3.33502149 24.906864,3.5 Z" id="Path-12" stroke="#FFFFFF" stroke-width="3" transform="translate(30.273775, 7.693811) scale(-1, 1) translate(-30.273775, -7.693811) "></path>
+        <path d="M23.5,24 L23.5,44" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+    </g>
+</svg>
